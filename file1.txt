@@ -1,4 +1,5 @@
 12345
 qwerty
-another line from user1
 Line from user1
+Line from user2
+
